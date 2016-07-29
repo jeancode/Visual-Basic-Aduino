@@ -1,0 +1,13 @@
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.Form1.resources
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.Resources.resources
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.vbproj.GenerateResource.Cache
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\bin\Debug\WindowsArduinoVb.exe
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\bin\Debug\WindowsArduinoVb.pdb
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\bin\Debug\WindowsArduinoVb.xml
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.exe
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.xml
+C:\Users\aser_jean\AppData\Local\Temporary Projects\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.pdb
+C:\Users\aser_jean\Documents\Visual Studio 2008\Projects\WindowsArduinoVb\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.exe
+C:\Users\aser_jean\Documents\Visual Studio 2008\Projects\WindowsArduinoVb\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.xml
+C:\Users\aser_jean\Documents\Visual Studio 2008\Projects\WindowsArduinoVb\WindowsArduinoVb\obj\Debug\WindowsArduinoVb.pdb
